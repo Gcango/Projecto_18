@@ -1,6 +1,6 @@
 # Projecto_18
  
-Previsão de Renda Anual com Machine Learning
+Previsão de Renda Anual 
 Este projeto usa algoritmos de Machine Learning para prever se uma pessoa com certos atributos excede uma renda anual de $50.000. A análise compara três modelos de classificação — Naive Bayes, Árvore de Decisão e Random Forest — e identifica o modelo mais eficaz para este problema.
 
 1. Objetivo do Projeto
